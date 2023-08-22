@@ -363,6 +363,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="lang\res_en-US.rc" />
+    <None Include="lang\res_ko-KR.rc" />
     <None Include="lang\res_zh-CN.rc" />
     <None Include="lang\res_ja-JP.rc" />
     <None Include="lang\res_he-IL.rc" />
@@ -370,6 +371,7 @@
     <None Include="lang\suggest_en-US.db" />
     <None Include="lang\suggest_pl-PL.db" />
     <None Include="lang\suggest_tr-TR.db" />
+    <None Include="lang\suggest_ko-KR.db" />
     <None Include="lang\suggest_zh-CN.db" />
     <None Include="lang\suggest_ja-JP.db" />
     <None Include="lang\suggest_he-IL.db" />
